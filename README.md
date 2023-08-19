@@ -43,5 +43,5 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
- 
+   _generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
