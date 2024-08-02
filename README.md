@@ -21,7 +21,7 @@ I'm a Senior Software Engineer from Brazil who has been working with React Nativ
 
 - As a Senior SWE, I had the mission to build and architect from scratch a platform of Video to watch classes offline for one of Brazil's biggest companies in the study segment. [Mindz](https://mindz.com.br/?utm_source=google&utm_medium=gerais01&utm_campaign=pesquisacaptacao&gclid=CjwKCAiA_aGuBhACEiwAly57MaEoFwE0HRyomfvCsJ-H6WZrp4bp28yOyn_y5onidbCAu7ztVC-sfBoCyv8QAvD_BwE)
 - As a SWE II, I had the mission to refactor almost (99%) of the App of one of Brazil's biggest private-label card brands. An incredible case of success. [Cartão de TODOS](https://www.cartaodetodos.com.br/)
-- As a SWE II, I had the mission to refactor all Design and structure of the App for one of the biggest companies in the market segment. [Assai](https://www.assai.com.br/)
+- As a SWE II, I had the mission to refactor all design and structure of the App for one of the biggest companies in the market segment. [Assai](https://www.assai.com.br/)
 
 
 <br/>
