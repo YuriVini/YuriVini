@@ -24,6 +24,11 @@ I'm a Senior Software Engineer from Brazil who has been working with React Nativ
 - As a SWE II, I had the mission to refactor all design and structure of the App for one of the biggest companies in the market segment. [Assai](https://www.assai.com.br/)
 
 
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+
+
 <br/>
 <br/>
 <div>
